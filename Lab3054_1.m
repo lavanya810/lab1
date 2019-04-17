@@ -3,7 +3,7 @@
 clc; 
 clear all; 
 close all; 
-figure('name','Chhavi')
+figure('name','Lavanya')
 
 A=magic(4) %to create 4x4 matrix with no element repeating
 [V,D]=eig(A);
